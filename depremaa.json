@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "deprem-fd840",
+  "private_key_id": "b60ac6e804e0e82d6712cb6a638968666141e08f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+22mBzMHISpNE\nk40/VQs/mpUhXXMAUiVuiLFxmKZB9EulkbSjs2nNAL7dz9nI5gU4Y3n1HDEBW/nj\nC5PiVF2uNzIoykzSAC1GzFbR1ViYFbecWxWPjuvscEkhjSa4CB3Jy3y3FdjTh2BN\nz3rrYjj62qkl8SzBdol4s7ZPEwz+gSiFMDYDNNJTAtU2yLN+/jK5AEq1tliOdPGh\nFJpe3uK0uZonQ+4G79BNPCZGN75HiOxnwNSL92S1v+z9V9LluXzT/nE6tg5D1OHe\nUtwkYcZdsKRlGRg2aZHbHv8JKdPIemO9rWc7kc/5gje0VRdtJ8F+xcwxdMI3yPmR\ni2WcYntXAgMBAAECggEAL4sNsclVXnUBUXxmG6guOKZjzt9uBd7wtyOy/Ca4B8b4\nzyJIOt03FlvAsBWWXV67XywclcvzgzCrw3y/VoqImZzjUFjwoQFtRe0iFXxNaPlD\n912TNeM27vubpBF62y4eaYXYp+z3yd23xjpQlvEtW4P7zdlRulGydhBicjk/K+iH\nail++0eZdzd7zxF505uRLFoKlsvjdT+AK9YG7adkxCRn6+M/Fn3dQhK4wDYKoTd9\nnGYwU9bFJKqdyYFVTd8m6NIZ18e0goI69K8ViH1t5N/s3fsfc2tLcS0u9KTI87sc\ninEsFBieUo/6akt1CYH5Y8Uoo/6r4kcS7ZsRrncHXQKBgQDphblOPYaKlZ8It2w8\nZZ6R0XZvocNhKwJR6/KkMLOkt8UwMpvnqWMix0ZmP/wmddNmPaVqodA597ZZDDow\nimY7BSPFgeUl5ck9B8si/2fci57u8SDug+yQrKWm8Hmavf/OwIzspq2mgsPMQEXB\ntaHxiEPki8c2LKl5HH2/NUiOawKBgQDROl0ZnCH6g4kegh3YR96NzGYwtt/7BDe+\nNaqoEgw/+qGaAWcBB7hqgPNAceLTUQ9zDROt8DhSfqCUJtI+NPZdxocEmokJg3zo\ngrr3HVMRx2CopqSFhD/BwJxroTwSfS0rJClOkZZaqv76jcVYwnHACPiWfOEBkL/Q\nKzImnilpxQKBgQCMr7abD3AN7+Q3ASJhJKuql/HtgRxPXvTv2+F7z6d61ggjaGoK\n4D7MhhfApE3J8fRhRURyAHiNY9JkxXwNIGRErG0HoaEm+tAJR7e3Jv4wnaErvPOl\nHq+X3ZuS/o+UjWEe81wzeptllKRXWmVsNXwSIpEckKV82t1jDKopVvWWbwKBgD4A\neqhlMViIdDDbRDbcjWId6UaUWumLBW3Tf4AQ4RpwjkUSF1Eh1Y+SKQO2/A29HsPs\nYyGPZ1Fi/vkITBNtJHkDpO1DUkrEcVaBryAdy4kgOU+hGm4Kk8454uCuRhwAhksb\nizYiRJkXxTnAm3PDI2xR/EC0PwV0vLLWqiTxh7o1AoGAZDPxpBCxUM8Ei1A9n26p\nXrc3HGXDaHnCBE2NPfHhg53lFaCBvKfW9+FPG0HQW8Eo0WOjofd6GfU4PZQVI4h3\n+FO6kbcs3ZYPwKe++HoIG8+o6i0+Z3EcN1r7owYGVs6pYvZ7mVnJ8CROGvusClJ9\nqySUujCLKc7q17tRV+WqBec=\n-----END PRIVATE KEY-----\n",
+  "client_email": "atalay@deprem-fd840.iam.gserviceaccount.com",
+  "client_id": "111606898631556820082",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/atalay%40deprem-fd840.iam.gserviceaccount.com"
+}
